@@ -1,0 +1,11 @@
+{
+  "name": "scanx_delete_acc_website",
+  "version": "1.0.0",
+  "description": "website to delete accounts on scanx",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aadarshkt",
+  "license": "ISC"
+}
